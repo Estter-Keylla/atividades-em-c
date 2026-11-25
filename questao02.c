@@ -1,5 +1,5 @@
 /*
- * Aula 08 - Ponteiros e Vetores Dinamicos
+ * Aula 08 - Ponteiros e Vetores Dinamicos.
  * Questao 02 - Separa os valores positivos e pares e os negativos e impares
  * em vetores distintos (alocados dinamicamente) e os mostra em ordem crescente.
  *
