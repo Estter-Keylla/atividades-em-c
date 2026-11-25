@@ -1,5 +1,5 @@
 /*
- * Aula 08 - Ponteiros e Vetores Dinamicos
+ * Aula 08 - Ponteiros e Vetores Dinamicos.
  * Questao 03 - Numeros repetidos, primos e correspondencia com nomes de animais.
  *
  * Interpretacao seguida (de acordo com o exemplo de saida do enunciado):
