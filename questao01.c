@@ -1,5 +1,5 @@
 /*
- * Aula 08 - Ponteiros e Vetores Dinamicos
+ * Aula 08 - Ponteiros e Vetores Dinamicos.
  * Questao 01 - Sorteio beneficente.
  *
  * Conteudos usados: vetores, funcoes, ponteiros e alocacao dinamica (malloc/free).
