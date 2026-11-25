@@ -1,5 +1,5 @@
 /*
- * Aula 08 - Ponteiros e Vetores Dinamicos
+ * Aula 08 - Ponteiros e Vetores Dinamicos.
  * Questao 05 - Cadastro de 4 participantes, IDs por fatorial, matriz dinamica,
  * media ponderada e classificacao em relacao a diagonal de um retangulo.
  *
