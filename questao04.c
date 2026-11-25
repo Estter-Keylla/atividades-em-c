@@ -1,5 +1,5 @@
 /*
- * Aula 08 - Ponteiros e Vetores Dinamicos
+ * Aula 08 - Ponteiros e Vetores Dinamicos.
  * Questao 04 - Competicao de apostadores com a soma da sequencia de Fibonacci.
  *
  * Sequencia de Fibonacci usada: 1, 1, 2, 3, 5, 8, ...
